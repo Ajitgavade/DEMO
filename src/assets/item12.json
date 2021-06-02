@@ -1,0 +1,14 @@
+{
+	"steam": "In the French and Indian War (1754-1763), who were the opposing sides?",
+	"options": {
+		"A": "France and India",
+        "B": "America and France",
+        "C": "New England and France",
+        "D": "British America and New France"
+	},
+	"correct": "D",
+	"metadata":{
+		"category": "History",
+		"difficulty": "120"
+	}
+}

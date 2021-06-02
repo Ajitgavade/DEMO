@@ -1,0 +1,14 @@
+{
+	"steam": "The Oscar for Best Picture of 1940 was won by:",
+	"options": {
+		"A": "Gone With The Wind",
+        "B": "How Green Was My Valley",
+        "C": "Mrs. Miniver",
+        "D": "Rebecca"
+	},
+	"correct": "D",
+	"metadata":{
+		"category": "General",
+		"difficulty": "120"
+	}
+}

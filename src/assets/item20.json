@@ -1,0 +1,14 @@
+{
+	"steam": "The formula E=mc2 appears in which famous theory?",
+	"options": {
+		"A": "Einstein's theory of General Relativity",
+        "B": "Kellogg's Special K",
+        "C": "Einstein's theory of Special Relativity",
+        "D": "Relatively Speaking by Alan Ayckbourn"
+	},
+	"correct": "C",
+	"metadata":{
+		"category": "Science",
+		"difficulty": "110"
+	}
+}

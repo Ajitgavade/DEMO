@@ -1,0 +1,39 @@
+{
+	"questions": [
+		{
+			"difficulty": 100,
+			"items": [
+				"item1.json",
+				"item2.json",
+				"item3.json",
+				"item17.json",
+				"item18.json",
+				"item19.json"
+			]
+		},
+		{
+			"difficulty": 110,
+			"items": [
+				"item4.json",
+				"item5.json",
+				"item6.json",
+				"item7.json",
+				"item10.json",
+				"item16.json",
+				"item20.json"
+			]
+		},
+		{
+			"difficulty": 120,
+			"items": [
+				"item8.json",
+				"item9.json",
+				"item11.json",
+				"item12.json",
+				"item13.json",
+				"item14.json",
+				"item15.json"
+			]
+		}
+	]
+}

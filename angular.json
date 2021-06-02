@@ -24,9 +24,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/custom.js"
+           
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quizApp"
+    }
+  },
+  "defaultProject": "quizApp",
+  "cli": {
+    "analytics": "2e4d68c5-9224-41de-a9d5-abbd54b72dea"
+  }
 }

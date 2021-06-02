@@ -1,0 +1,14 @@
+{
+	"steam": "When did Abraham Lincoln deliver the Gettysburg address?",
+	"options": {
+		"A": "some months after the Battle of Gettysburg",
+        "B": "on the eve of the Battle of Gettysburg",
+        "C": "during the Battle of Gettysburg",
+        "D": "some months before the Battle of Gettysburg"
+	},
+	"correct": "A",
+	"metadata":{
+		"category": "History",
+		"difficulty": "110"
+	}
+}

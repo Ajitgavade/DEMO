@@ -1,0 +1,14 @@
+{
+	"steam": "Who cried 'Eureka! Eureka!' when he stepped into a bath and noticed that the water level rose?",
+	"options": {
+		"A": "Socrates",
+        "B": "Sophocles",
+        "C": "Alexander The Great",
+        "D": "Archimedes"
+	},
+	"correct": "D",
+	"metadata":{
+		"category": "History",
+		"difficulty": "110"
+	}
+}

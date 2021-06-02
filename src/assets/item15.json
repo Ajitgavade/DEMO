@@ -1,0 +1,14 @@
+{
+	"steam": "According to the 1946 movie, how many times does the postman always ring?",
+	"options": {
+		"A": "Thrice",
+        "B": "Once",
+        "C": "Twice",
+        "D": "Never"
+	},
+	"correct": "C",
+	"metadata":{
+		"category": "General",
+		"difficulty": "120"
+	}
+}

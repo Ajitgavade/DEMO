@@ -1,0 +1,30 @@
+<div *ngIf="!showResult"class="card w-75 center">
+    <div class="card-body">
+    <h6>Que.{{atteptCount}}:{{quetion?.steam}}</h6>
+        <div *ngFor="let option of quetion?.options | keyvalue">
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="option" [checked]="selectedAns === option.key" id="{{option.key}}"
+                    (change)="onRadioBtnClick(option.key)">
+                <label class="form-check-label" for="{{option.key}}">
+                    {{option.key}}:{{option.value}}
+                </label>
+            </div>
+        </div>
+        <div class="row">
+            <button class="btn btn-primary column" (click)="previousPage()">Previous</button>
+            <button class="btn btn-primary column" *ngIf="!(atteptCount == totalQueCount)" (click)="nextPage()">Next</button>
+            <button class="btn btn-primary column" *ngIf="atteptCount == totalQueCount" (click)="nextPage()">Test End..</button>
+        </div>
+    </div>
+   
+</div>
+<div *ngIf="showResult" class="card w-75 center">
+    <div class="card-body">
+        <h4 style="background: lightcoral;">Test Result:</h4>
+        <div style="padding-left: 50px;">
+        <h5>Attempted:{{atteptCount}}</h5>
+        <h5>correctCount:{{correctCount}}</h5>
+        <h5>percentage:{{percentage}}%</h5>
+        <h5>Status:{{status}}</h5>
+        </div>
+    </div></div>

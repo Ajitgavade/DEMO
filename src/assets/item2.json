@@ -1,0 +1,14 @@
+{
+   "steam": "A train leaves Paddington Station at 14:00 and travels at 45 mph. Another train leaves Grand Central Station 15:00 and travels at 60 mph. When will the two trains meet?",
+	"options": {
+		"A": "eventually",
+        "B": "it's difficult to say",
+        "C": "on November 5th",
+        "D": "never"
+	},
+	"correct": "C",
+	"metadata": {
+		"category": "Math",
+		"difficulty": 100
+	}
+}

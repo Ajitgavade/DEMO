@@ -1,0 +1,10 @@
+<div *ngIf="!startTestshow" class="card w-75 center">
+  <div class="card-body">
+    <h4 style="text-align: left;">Practics Test</h4>
+    <!-- <button routerLink="quiz">Start Test</button> -->
+    <button class="btn btn-primary" (click)="startTest()">Start Test</button>
+  </div>
+</div>
+<div *ngIf="startTestshow">
+<app-quizquestions></app-quizquestions>
+</div>

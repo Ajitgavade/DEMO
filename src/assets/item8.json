@@ -1,0 +1,14 @@
+{
+	"steam": "According to Douglas Adams, the meaning of life, the universe, and everything is:?",
+	"options": {
+		"A": "36",
+        "B": "42",
+        "C": "12",
+        "D": "Infinity"
+	},
+	"correct": "B",
+	"metadata":{
+		"category": "Science",
+		"difficulty": "120"
+	}
+}

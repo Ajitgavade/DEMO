@@ -1,0 +1,14 @@
+{
+	"steam": "Complete the following quotation from Shakespeare's Hamlet: 'To be or not to be:'",
+	"options": {
+		"A": "I just can't decide:",
+        "B": "that is the question:",
+        "C": "And if not now, when?",
+        "D": "A prince or a king:"
+	},
+	"correct": "B",
+	"metadata":{
+		"category": "Reading",
+		"difficulty": "100"
+	}
+}

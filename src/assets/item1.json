@@ -1,0 +1,14 @@
+{
+	"steam": "Who won the soccer World Cup in 1966?",
+	"options": {
+		"A": "England",
+        "B": "West Germany",
+        "C": "France",
+        "D": "Italy"
+	},
+	"correct": "A",
+	"metadata":{
+		"category": "History",
+		"difficulty": "100"
+	}
+}

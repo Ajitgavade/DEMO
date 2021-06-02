@@ -1,0 +1,14 @@
+{
+	"steam": "Which of the following is NOT one of the Seven Wonders of the Ancient World?",
+	"options": {
+		"A": "The Great Pyramid of Giza",
+        "B": "The Lighthouse of Alexandria",
+        "C": "The Colossus of Rome",
+        "D": "The Hanging Gardens of Babylon"
+	},
+	"correct": "C",
+	"metadata":{
+		"category": "Geography",
+		"difficulty": "110"
+	}
+}

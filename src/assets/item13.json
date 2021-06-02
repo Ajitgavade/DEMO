@@ -1,0 +1,14 @@
+{
+	"steam": "Who is buried in Grant's Tomb?",
+	"options": {
+		"A": "Cary Grant",
+        "B": "Hugh Grant",
+        "C": "Ulysses S. Grant",
+        "D": "Student Grant"
+	},
+	"correct": "C",
+	"metadata":{
+		"category": "History",
+		"difficulty": "120"
+	}
+}

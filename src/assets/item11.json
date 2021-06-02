@@ -1,0 +1,14 @@
+{
+	"steam": "The annual golf competition between the USA and Europe is called the:",
+	"options": {
+		"A": "The Challenge Cup",
+        "B": "Ryder Cup",
+        "C": "The Driver Cup",
+        "D": "The Battle of Giants"
+	},
+	"correct": "B",
+	"metadata":{
+		"category": "General",
+		"difficulty": "120"
+	}
+}

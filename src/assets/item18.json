@@ -1,0 +1,14 @@
+{
+	"steam": "How many rings appear on the olympic symbol?",
+	"options": {
+		"A": "5",
+        "B": "7",
+        "C": "6",
+        "D": "8"
+	},
+	"correct": "A",
+	"metadata":{
+		"category": "General",
+		"difficulty": "100"
+	}
+}

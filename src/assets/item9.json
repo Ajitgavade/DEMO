@@ -1,0 +1,14 @@
+{
+	"steam": "The ice cream flavor 'Cherry Garcia' was created by:",
+	"options": {
+		"A": "Tom & Jerry",
+        "B": "Jerry Garcia",
+        "C": "Ben & Jerry",
+        "D": "Sergio Garcia"
+	},
+	"correct": "C",
+	"metadata":{
+		"category": "History",
+		"difficulty": "120"
+	}
+}
